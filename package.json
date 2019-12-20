@@ -1,0 +1,19 @@
+{
+  "name": "remeberbot",
+  "version": "1.0.0",
+  "description": "A telegram bot to remember things.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luanbrito7/remeberbot.git"
+  },
+  "author": "Luan Brito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luanbrito7/remeberbot/issues"
+  },
+  "homepage": "https://github.com/luanbrito7/remeberbot#readme"
+}
