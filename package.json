@@ -4,7 +4,8 @@
   "description": "A telegram bot to remember things.",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/luanbrito7/remeberbot/issues"
   },
-  "homepage": "https://github.com/luanbrito7/remeberbot#readme"
+  "homepage": "https://github.com/luanbrito7/remeberbot#readme",
+  "dependencies": {
+    "telegraf": "^3.34.1"
+  }
 }
