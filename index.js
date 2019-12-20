@@ -18,4 +18,4 @@ setInterval(() => {
     }
     bot.telegram.sendMessage(CHANNEL_ID, messages[i])
     i++ 
-}, 1000000) 
+}, 7200000) 
